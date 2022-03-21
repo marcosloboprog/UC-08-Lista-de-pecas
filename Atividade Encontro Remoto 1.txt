@@ -1,0 +1,5 @@
+Atividade referente ao primeiro encontro remoto da Unidade 08
+
+- É um code de cadastro de peças automotivas
+
+- Já fiz o codigo proposto. Agora vou colocar no github
